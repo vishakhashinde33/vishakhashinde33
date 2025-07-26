@@ -1,4 +1,13 @@
-## Hi there 👋
+# Hi there 👋 I'm Vishakha!
+
+🎓 Diploma Holder in Artificial Intelligence & Machine Learning (MIT, 2025)  
+💡 Passionate about coding, AI/ML, and learning new technologies  
+📫 Reach me: [LinkedIn](https://www.linkedin.com/in/vishakha-shinde-9a781a36a
+) | Email: vishakhashinde0776@gmail.com
+
+---
+✨ Let’s build and grow together!
+
 
 <!--
 **vishakhashinde33/vishakhashinde33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
